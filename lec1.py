@@ -8,6 +8,7 @@ print(area)
 # use comments to help others understand what you are doing in code
 radius = radius + 1
 print(area)     # area doesn't change
+print("Now print the area with the changed radius.")
 area = pi*(radius**2)
 print(area)
 
